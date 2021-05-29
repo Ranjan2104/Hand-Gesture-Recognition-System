@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hand Gesture Recognition System.iml" filepath="$PROJECT_DIR$/.idea/Hand Gesture Recognition System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../WEB DEVLOPS/Progress Bar/.idea/Progress Bar.iml" filepath="$PROJECT_DIR$/../../../WEB DEVLOPS/Progress Bar/.idea/Progress Bar.iml" />
+    </modules>
+  </component>
+</project>
